@@ -26,9 +26,9 @@ data = [64, 25, 12, 22, 11]
 start = time.time()
 sorted_data = insertion_sort(data.copy())
 print("Insertion Sort Time:", time.time() - start, "seconds")
-print("Sorted Data (Insertion Sort):", sorted_data)
+print("Sorted Data ", sorted_data)
 
 start = time.time()
 sorted_data = selection_sort(data.copy())
 print("Selection Sort Time:", time.time() - start, "seconds")
-print("Sorted Data (Selection Sort):", sorted_data)
+print("Sorted Data ", sorted_data)

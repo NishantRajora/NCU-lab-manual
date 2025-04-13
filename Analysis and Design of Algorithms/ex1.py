@@ -22,12 +22,12 @@ n = 5
 
 start = time.time()
 print("Factorial (Iterative) of", n, "is", factorial_iter(n))
-print("Time taken (Iterative):", time.time() - start, "seconds")
+print("Time taken ", time.time() - start, "seconds")
 
 start = time.time()
 print("Factorial (Recursive) of", n, "is", factorial_rec(n))
-print("Time taken (Recursive):", time.time() - start, "seconds")
+print("Time taken :", time.time() - start, "seconds")
 
 start = time.time()
 print("Fibonacci (Recursive) of", n, "is", fibonacci_rec(n))
-print("Time taken (Recursive):", time.time() - start, "seconds")
+print("Time taken :", time.time() - start, "seconds")
