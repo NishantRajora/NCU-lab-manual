@@ -16,5 +16,5 @@ alpha = 0.05
 z_one_tailed = compute_critical_value(alpha, 'one-tailed')
 z_two_tailed = compute_critical_value(alpha, 'two-tailed')
 
-print(f"Critical value for α = {alpha} (one-tailed): Z = {z_one_tailed}")
-print(f"Critical value for α = {alpha} (two-tailed): Z = ±{z_two_tailed}")
+print(f"Critical value for alpha = {alpha} (one-tailed): Z = {z_one_tailed}")
+print(f"Critical value for alpha = {alpha} (two-tailed): Z = ±{z_two_tailed}")
