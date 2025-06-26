@@ -82,13 +82,6 @@ Contributions from fellow NCU students are welcome!
 
 ---
 
-## 👤 Maintainer
-
-**Nishant Rajora**  
-🧑‍💻 GitHub: [@NishantRajora](https://github.com/NishantRajora)  
-📧 Email: *[add your email if you want]*
-
----
 
 > _“Knowledge grows when shared. Practice turns knowledge into skill.”_
 
