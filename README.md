@@ -1,6 +1,6 @@
-# 📚 NCU Lab Manual – 2nd Year (B.Tech Data Science)
+# 📚 NCU Lab Manual (B.Tech Data Science)
 
-Welcome to the official GitHub repository of **2nd Year Lab Manuals** for the **B.Tech – Data Science** program at **The NorthCap University**. This repository provides well-structured, practical experiment manuals and code implementations across core subjects.
+Welcome to the official GitHub repository of **NCU Lab Manuals** for the **B.Tech – Data Science** program at **The NorthCap University**. This repository provides well-structured, practical experiment manuals and code implementations across core subjects.
 
 > 📍 Repository: [NCU-lab-manual](https://github.com/NishantRajora/NCU-lab-manual)  
 > 🎓 Academic Year: 2024–2025  
