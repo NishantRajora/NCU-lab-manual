@@ -1,87 +1,130 @@
-# 📚 NCU Lab Manual (B.Tech Data Science)
+# NCU Lab Manual (B.Tech Data Science)
 
-Welcome to the official GitHub repository of **NCU Lab Manuals** for the **B.Tech – Data Science** program at **The NorthCap University**. This repository provides well-structured, practical experiment manuals and code implementations across core subjects.
+Welcome to the official GitHub repository of NCU Lab Manuals for the B.Tech – Data Science program at The NorthCap University. This repository provides structured laboratory manuals and corresponding code implementations across core academic subjects.
 
-> 📍 Repository: [NCU-lab-manual](https://github.com/NishantRajora/NCU-lab-manual)  
-> 🎓 Academic Year: 2024–2025  
-> 🏛️ University: The NorthCap University (NCU), Gurugram
-
----
-
-## 📘 Subjects Covered
-
-| Subject Name                        | Folder Name | Description                                                                 |
-|------------------------------------|-------------|-----------------------------------------------------------------------------|
-| 🧠 Analysis and Design of Algorithms | `ADA/`      | Lab tasks on Divide & Conquer, Greedy, Backtracking, Dynamic Programming   |
-| 📊 Applied Computational Statistics | `ACS/`      | Probability, hypothesis testing, regression, and Python-based statistics   |
-| 🗂️ Data Structures                 | `DS/`       | Programs on arrays, stacks, queues, linked lists, trees, heaps, and graphs |
-| 💻 Programming for Data Science     | `PDS/`      | Python labs on NumPy, Pandas, Matplotlib, data analysis, and visualization |
-
-> Each folder contains `.pdf` lab manuals and related source code in `.py`, `.cpp`, `.java`, or `.ipynb` formats.
+Repository: https://github.com/NishantRajora/NCU-lab-manual  
+Academic Year: 2024–2025  
+University: The NorthCap University (NCU), Gurugram  
 
 ---
 
-## 📁 How to Use
+## Overview
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/NishantRajora/NCU-lab-manual.git
-   cd NCU-lab-manual
-   ```
+This repository serves as a centralized academic resource containing:
 
-2. **Navigate to a subject folder**:
-   ```bash
-   cd ADA/
-   ```
+- Laboratory experiment manuals in PDF format  
+- Source code implementations  
+- Practical exercises aligned with the university curriculum  
+- Hands-on programming tasks across multiple subjects  
 
-3. **Open code/manuals** using any IDE or PDF reader.
+It is designed to support conceptual clarity, coding practice, and exam preparation.
 
 ---
 
-## 🔧 Tools & Languages Used
+## Subjects Covered
 
-- 🐍 Python (Jupyter Notebook, NumPy, Pandas, Matplotlib)
-- 💻 Java & C++ for algorithm/data structure labs
-- 📄 PDF manuals for experiment descriptions
+| Subject Name                         | Folder Name | Description |
+|-------------------------------------|-------------|------------|
+| Analysis and Design of Algorithms   | `ADA/`      | Divide and Conquer, Greedy Algorithms, Backtracking, Dynamic Programming |
+| Applied Computational Statistics    | `ACS/`      | Probability theory, hypothesis testing, regression, statistical computing |
+| Data Structures                     | `DS/`       | Arrays, stacks, queues, linked lists, trees, heaps, graphs |
+| Programming for Data Science        | `PDS/`      | NumPy, Pandas, Matplotlib, data analysis, visualization |
 
----
+Each folder contains:
 
-## 🧠 Learning Objectives
-
-- Strengthen understanding of core algorithms and data structures
-- Practice statistical computing and hypothesis testing
-- Implement real-world data science solutions
-- Gain hands-on experience in Python programming and analysis
-
----
-
-## 🌱 Planned Enhancements
-
-- [ ] Add Viva Questions per lab  
-- [ ] Include screenshots of outputs  
-- [ ] Add interactive notebooks for PDS & ACS  
-- [ ] Upload solution videos or walkthroughs
+- Laboratory manuals in `.pdf` format  
+- Source code files in `.py`, `.cpp`, `.java`, or `.ipynb` formats  
+- Practical implementations aligned with lab experiments  
 
 ---
 
-## 🤝 Contribute
+## Repository Structure
 
-Contributions from fellow NCU students are welcome!
-
-1. Fork the repo
-2. Add your changes (maintaining folder structure)
-3. Submit a pull request
-
----
-
-## ⚠️ Disclaimer
-
-> This repository is maintained for **educational purposes only**.  
-> Content belongs to the official curriculum of **The NorthCap University**.  
-> Do not copy-paste during evaluations. Use it to **understand and practice**.
+```
+NCU-lab-manual/
+│
+├── ADA/
+├── ACS/
+├── DS/
+├── PDS/
+└── README.md
+```
 
 ---
 
+## How to Use
 
-> _“Knowledge grows when shared. Practice turns knowledge into skill.”_
+1. Clone the repository:
 
+```
+git clone https://github.com/NishantRajora/NCU-lab-manual.git
+cd NCU-lab-manual
+```
+
+2. Navigate to the desired subject folder:
+
+```
+cd ADA/
+```
+
+3. Open manuals using a PDF reader and execute code using your preferred IDE or Jupyter Notebook.
+
+---
+
+## Tools and Languages Used
+
+- Python (Jupyter Notebook, NumPy, Pandas, Matplotlib)  
+- Java  
+- C++  
+- PDF-based laboratory manuals  
+
+---
+
+## Learning Objectives
+
+- Strengthen understanding of core algorithms and data structures  
+- Develop practical problem-solving skills  
+- Apply statistical concepts through computational implementation  
+- Gain hands-on experience in Python-based data analysis  
+- Prepare effectively for laboratory evaluations and viva examinations  
+
+---
+
+## Planned Enhancements
+
+- Add viva questions for each experiment  
+- Include output screenshots  
+- Add interactive notebooks for ACS and PDS  
+- Provide structured solution explanations  
+- Include additional practice problems  
+
+---
+
+## Contribution Guidelines
+
+Contributions from NCU students are welcome.
+
+1. Fork the repository  
+2. Maintain the existing folder structure  
+3. Add or improve documentation/code  
+4. Submit a pull request  
+
+All contributions should maintain academic integrity and clarity.
+
+---
+
+## Disclaimer
+
+This repository is maintained strictly for educational purposes.  
+All content aligns with the official curriculum of The NorthCap University.  
+
+Students are encouraged to use this repository to understand and practice concepts. Direct copying during academic evaluations is discouraged.
+
+---
+
+## Author
+
+Nishant Rajora  
+B.Tech – Data Science  
+The NorthCap University  
+Focused on structured academic learning and practical implementation
